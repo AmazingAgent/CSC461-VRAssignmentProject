@@ -2,8 +2,7 @@
 
 ## Scene 1 – Unity Primitives
 This scene has 3 Unity primitives (Cube, Sphere, Cylinder)
-![Screenshot1](image-link)
-![Screenshot1](https://github.com/AmazingAgent/CSC461-VRAssignmentProject/blob/[branch]/UnityBasics1.png?raw=true)
+![Screenshot1](https://github.com/AmazingAgent/CSC461-VRAssignmentProject/blob/main/Images/UnityBasics1.PNG?raw=true)
 
 
 ## Scene 2 – Maze
